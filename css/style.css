@@ -1,0 +1,28 @@
+body{
+  background:#000;
+}
+.container{
+  background:#fff;
+  margin:50px auto;
+  padding:30px;
+  border-radius:20px;
+}
+.searchbox{
+  text-align:center;
+}
+.random-wiki{
+  padding:20px 0px;
+  font-size:19px;
+}
+#searchbox{
+  height:35px;
+}
+.searchresult{
+margin:30px 0px;  
+}
+.searchlist >li{
+ list-style:none;
+  padding:10px 10px;
+  background:#f5f5f5;
+  margin:20px 0px;
+}
